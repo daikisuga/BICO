@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2024-03-01T21:42:45.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nH8bMOHBdCedsB3Z2Rpg" version="24.0.0" type="device">
+  <diagram name="Página-1" id="a8Aatz65cUyanL8zeEt0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VOu4mNLq-kn0uGcjgKXv-1" value="Reclamante" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="860" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VOu4mNLq-kn0uGcjgKXv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VOu4mNLq-kn0uGcjgKXv-1" source="VOu4mNLq-kn0uGcjgKXv-5" target="VOu4mNLq-kn0uGcjgKXv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VOu4mNLq-kn0uGcjgKXv-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VOu4mNLq-kn0uGcjgKXv-1">
+          <mxGeometry x="40" y="77.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VOu4mNLq-kn0uGcjgKXv-6" value="Entre na página de denuncia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VOu4mNLq-kn0uGcjgKXv-1">
+          <mxGeometry x="120" y="75" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VOu4mNLq-kn0uGcjgKXv-2" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="720" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VOu4mNLq-kn0uGcjgKXv-4" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="720" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
